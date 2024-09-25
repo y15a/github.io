@@ -1,0 +1,57 @@
+baseURL: https://www.y15a.com/
+title: y15a
+theme: PaperMod
+defaultContentLanguage: "ja"
+languages:
+  ja:
+    languageCode: ja-JP
+    languageName: 日本語
+    params:
+      homeInfoParams:
+        Title: Howdy, I'm Yoshi.
+        Content: 人類を結びつけるテクノロジーをつくっています
+    menu:
+      main:
+        - name: タグ 
+          url: tags/
+          weight: 1
+        - name: アーカイブ
+          url: archives
+          weight: 5
+    taxonomies:
+      tag: タグ
+  en:
+    languageCode: en-GB
+    languageName: English
+    params:
+      homeInfoParams:
+        Title: Howdy, I'm Yoshi.
+        Content: Building technology that helps glue humanity together.
+    menu:
+      main:
+        - name: Tags
+          url: tags/
+          weight: 1
+        - name: Archive
+          url: archives
+          weight: 5
+    taxonomies:
+      tag: Tags
+
+params:
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/y15a"
+    - name: "facebook"
+      url: "https://facebook.com/yoshiyuki.kakihara/"
+    - name: "twitter"
+      url: "https://x.com/y15a_/"
+    - name: "mastodon"
+      url: "https://mas.to/@y15a"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/yoshiyuki-kakihara-6a158322/"
+
+services:
+  googleAnalytics:
+    id: G-4NYFPSJF0F
+
