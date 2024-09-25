@@ -1,4 +1,5 @@
-name: Deploy Hugo site to Pages
+name: Build with Hugo
+# just build as a test
 
 on:
   pull_request:
