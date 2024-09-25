@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - source
+      - main
 
 jobs:
   deploy:
@@ -20,7 +20,9 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo
+        run: |
+          echo "HUGO_ENV=production" >> $GITHUB_ENV
+          hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
