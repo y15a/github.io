@@ -13,13 +13,13 @@ languages:
     menu:
       main:
         - name: タグ 
-          url: tags/
+          url: tags
           weight: 1
         - name: アーカイブ
           url: archives
           weight: 5
     taxonomies:
-      tag: タグ
+      tag: Tags
   en:
     languageCode: en-GB
     languageName: English
@@ -30,7 +30,7 @@ languages:
     menu:
       main:
         - name: Tags
-          url: tags/
+          url: tags
           weight: 1
         - name: Archive
           url: archives
