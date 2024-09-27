@@ -24,7 +24,6 @@ It’s also driven by business factors like scale, marketing, and support.
 
 Based on this theory, there are a couple of derivations we can make.
 
-
 **Refactoring usually increases value density.**
 Think of (extrinsic value of software) / (lines of code).
 While refactoring _can_ raise the number of lines of code in some instances, if you succeed in maximising code reuse under DRY principle, you usually see a decline in LOC.
