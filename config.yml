@@ -9,7 +9,7 @@ languages:
     params:
       homeInfoParams:
         Title: Howdy, I'm Yoshi.
-        Content: 人類を結びつけるテクノロジーをつくっています
+        Content: 柿原祥之。起業家、ソフトウェア技術者。二児の父。
     menu:
       main:
         - name: タグ 
@@ -26,7 +26,7 @@ languages:
     params:
       homeInfoParams:
         Title: Howdy, I'm Yoshi.
-        Content: Building technology that helps glue humanity together.
+        Content: Yoshiyuki Kakihara. Entrepreneur, Software Engineer. Father of two.
     menu:
       main:
         - name: Tags
