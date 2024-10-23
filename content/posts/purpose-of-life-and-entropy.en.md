@@ -6,7 +6,7 @@ tags: ["Philosophy", "Religion"]
 ---
 
 For much of history, humans have sought to define the purpose of life.
-Early views were often centered around survival, reproduction, and protection of those we care for.
+Early views were often centred around survival, reproduction, and protection of those we care for.
 As our understanding deepened, life came to be seen as part of a broader, interconnected system — a web of organisms and exchange of energy.
 Life, in this expanded view, is not merely about individual existence but about sustaining and participating in the path to equilibrium.
 
@@ -30,9 +30,9 @@ Fear, sorrow, and anxiety arise when we sense the forces of decay, disorder, and
 Our emotional lives mirror the physical reality: we feel happiest when maintaining order, and we suffer when confronted by inevitable disorder.
 
 Our emotions have evolved to protect us from death, to stave off decay for as long as possible.
-This instinctual drive to resist entropy shapes our sense of purpose, pushing us to cling to life and its structures.
+This instinctual drive to resist the fate shapes our sense of purpose, pushing us to cling to life and its structures.
 We seek meaning in growth, relationships, and achievements, all of which feel like triumphs over the inevitable.
-But no victory is permanent; entropy always reclaims what life creates.
+But no victory is permanent; the laws of entropy always reclaims what life creates.
 
 It is here that Buddhist philosophy offers an interesting parallel to this physical reality.
 Buddhism teaches that suffering arises from attachment — specifically, the attachment to things we cannot hold on to.
