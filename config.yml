@@ -9,7 +9,7 @@ languages:
     params:
       homeInfoParams:
         Title: Howdy, I'm Yoshi.
-        Content: 柿原祥之。起業家、ソフトウェア技術者。二児の父。
+        Content: 柿原祥之。起業家、ソフトウェア技術者。100+自治体へAIによる英語教育支援をするジョイズ株式会社の創業CEO。
     menu:
       main:
         - name: タグ 
